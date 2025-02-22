@@ -13,8 +13,7 @@ The **Cricket Win Predictor** is designed to:
 
 - **FastAPI & Uvicorn:** High-performance asynchronous API.
 - **Machine Learning Prediction:** Uses pre-trained model pipelines (e.g., XGBoost, scikit-learn) to make predictions.
-- **Interactive Documentation:** Automatically generated Swagger UI available at `/docs`.
-- **Easy Deployment:** Ready for continuous deployment with GitHub and Heroku integration.
+- **Easy Deployment:** Ready for continuous deployment cloud integration.
 
 
 ## Installation & Setup
